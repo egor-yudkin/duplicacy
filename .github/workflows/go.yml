@@ -39,7 +39,7 @@ jobs:
         # An optional body for the release.
         body: Trying to build Duplicacy here # optional
         # An optional commit reference. This will be used to create the tag if it does not exist.
-        commit: github.sha
+        #commit: github.sha
         # An optional name for the release. If this is omitted the tag will be used.
         name: test # optional, default is 
         # Optionally marks this release as prerelease. Set to true to enable.
